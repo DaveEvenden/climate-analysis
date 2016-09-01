@@ -9,5 +9,4 @@ def inches_to_mm(inches):
    mm = inches * 25.4
    return mm
    
-   #TODO(Developer A): Ad function to convert from inches to centimetres.
-   
+#TODO(The Boss):Hire another developer
